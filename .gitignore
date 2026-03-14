@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+.vite/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+backend/.env
+backend/primetrade_async.db
+backend/primetrade.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF reference
+document_pdf.pdf
+ui_reference/
