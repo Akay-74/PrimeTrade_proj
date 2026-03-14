@@ -28,7 +28,7 @@ This project is a submission for the Backend Developer (Intern) assignment at Pr
 ---
 
 ## 🚀 How to Run Locally
-
+Python 3.10+ is highly recommended
 ### 1. Start the Backend
 ```bash
 cd backend
